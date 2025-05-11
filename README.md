@@ -34,5 +34,5 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
 
 6. **Public Records Search**
    - Scrapers or search tools for gathering public records from various sources.
-   - [PublicRecords](link_to_script_or_tool)
+   - [PublicRecords](Public-Records.MD)
 
