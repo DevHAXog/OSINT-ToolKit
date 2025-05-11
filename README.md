@@ -18,12 +18,11 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
 
 1. **Social Media Tools**
    - Tools to scrape and analyze social media platforms for data and intelligence.
-
-    -[Social Media Tools](social-media-tools)
+   - [Social Media Tools](social-media-tools)
 
 3. **Domain & WHOIS Lookup**
    - Tools for gathering domain registration information, WHOIS lookups, etc.
-   - Example: [DomainLookup](link_to_script_or_tool)
+   -  [DomainLookup](Domain-IP-Tools.MD)
 
 4. **Geolocation Tools**
    - Tools to map IP addresses, GPS coordinates, or analyze geolocation data.
