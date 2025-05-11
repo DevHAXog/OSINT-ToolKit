@@ -5,9 +5,10 @@ This document outlines tools and scripts used to extract, analyze, and leverage 
 ---
 
 ## 🛠️ Tools & Utilities
-
+---
 ##🌐 Online Metadata Analyzers
--Tool	Description	URL
+
+---Tools
 -Metadata2Go:	Drag-and-drop metadata analyzer	https://www.metadata2go.com/
 -FotoForensics:	EXIF & image integrity analysis	https://fotoforensics.com/
 -Exif.tools:	EXIF viewer with map integration	https://exif.tools/
