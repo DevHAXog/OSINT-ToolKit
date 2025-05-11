@@ -36,10 +36,3 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
    - Scrapers or search tools for gathering public records from various sources.
    - Example: [PublicRecordScraper](link_to_script_or_tool)
 
-## 📚 Setup Guide
-
-To use the OSINT Toolkit:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/osint-toolkit.git
