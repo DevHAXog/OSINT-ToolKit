@@ -26,7 +26,7 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
 
 4. **Geolocation Tools**
    - Tools to map IP addresses, GPS coordinates, or analyze geolocation data.
-   - Example: [GeoIP Locator](link_to_script_or_tool)
+   - [GeoIP Locator](GEO-Tools.MD)
 
 5. **Metadata Extraction**
    - Tools for extracting metadata from images, documents, and other files.
