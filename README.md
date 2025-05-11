@@ -30,7 +30,7 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
 
 5. **Metadata Extraction**
    - Tools for extracting metadata from images, documents, and other files.
-   - [MetaData Tools](MetaData-Tools)
+   - [MetaData Tools](MetaData-Tools.md)
 
 6. **Public Records Search**
    - Scrapers or search tools for gathering public records from various sources.
