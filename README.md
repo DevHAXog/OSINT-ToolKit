@@ -1,7 +1,7 @@
 
 # OSINT Toolkit
 
-Welcome to my **OSINT Toolkit** repository! This collection contains a variety of tools, scripts, and resources designed to help you conduct Open Source Intelligence (OSINT) gathering. These tools can be used for cybersecurity research, investigative work, or personal use in gathering publicly available information.
+Welcome to my **OSINT Toolkit** repository! This collection contains a variety of tools, scripts, and resources that I've come across designed to help you conduct Open Source Intelligence (OSINT) gathering. These tools can be used for cybersecurity research, investigative work, or personal use in gathering publicly available information.
 
 ## 🛠️ Toolkit Overview
 
