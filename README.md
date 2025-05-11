@@ -22,17 +22,17 @@ The OSINT Toolkit contains a set of open-source tools, scripts, and methodologie
 
 3. **Domain & WHOIS Lookup**
    - Tools for gathering domain registration information, WHOIS lookups, etc.
-   -  [DomainLookup](Domain-IP-Tools.MD)
+   -  [Domain IP Tools](Domain-IP-Tools.MD)
 
 4. **Geolocation Tools**
    - Tools to map IP addresses, GPS coordinates, or analyze geolocation data.
-   - [GeoIP Locator](GEO-Tools.MD)
+   - [GEO Tools](GEO-Tools.MD)
 
 5. **Metadata Extraction**
    - Tools for extracting metadata from images, documents, and other files.
-   - Example: [ExifTool](link_to_script_or_tool)
+   - [MetaData Tools](link_to_script_or_tool)
 
 6. **Public Records Search**
    - Scrapers or search tools for gathering public records from various sources.
-   - Example: [PublicRecordScraper](link_to_script_or_tool)
+   - [PublicRecords](link_to_script_or_tool)
 
